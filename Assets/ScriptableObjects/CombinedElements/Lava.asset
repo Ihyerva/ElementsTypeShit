@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2db5b45baa3a3a5029cc856a89be37f7, type: 3}
+  m_Name: Lava
+  m_EditorClassIdentifier: Assembly-CSharp::CombinationSO
+  elementCode: 12
+  skillCodes:
+  - am
+  - bm
+  - an
+  - bn
+  skills:
+  - {fileID: 11400000, guid: 972ec0f22ca4eee068afc41f2720609a, type: 2}
+  - {fileID: 11400000, guid: 66bcc1d9d0ec4e77195a4324b79e03aa, type: 2}
+  - {fileID: 11400000, guid: 73d9586fddb3666e690681830a034994, type: 2}
+  - {fileID: 11400000, guid: d712705d49167249482c4a2d2ed16714, type: 2}

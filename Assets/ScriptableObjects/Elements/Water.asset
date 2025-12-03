@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c172582b45b7549108f9a8070826cdb0, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: Assembly-CSharp::ElementSO
+  elementCode: 3
+  skills:
+  - {fileID: 11400000, guid: 898d96a764c961716aa2a9bdf6235e52, type: 2}
+  - {fileID: 11400000, guid: eafc25302de4012b5a5d9d4a39a25ba0, type: 2}
+  possibleCombinations:
+  - {fileID: 11400000, guid: 37a34202553bc21c88617888eba4ec72, type: 2}
+  - {fileID: 11400000, guid: 326ae6d3b0fc32f338a448cd45593ccd, type: 2}
+  - {fileID: 11400000, guid: 74faed98cb5625c72b1a445032d7cc14, type: 2}

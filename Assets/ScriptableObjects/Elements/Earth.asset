@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c172582b45b7549108f9a8070826cdb0, type: 3}
+  m_Name: Earth
+  m_EditorClassIdentifier: Assembly-CSharp::ElementSO
+  elementCode: 2
+  skills:
+  - {fileID: 11400000, guid: afa5ed780aeddd03ba4c897f43975081, type: 2}
+  - {fileID: 11400000, guid: 13eb94fb5ba19c90f9e3e8b4104c527d, type: 2}
+  possibleCombinations:
+  - {fileID: 11400000, guid: 05e3420362f5832a08e2520a3943f4a4, type: 2}
+  - {fileID: 11400000, guid: 6dbc1481f3fcc0cbf94b81072223f355, type: 2}
+  - {fileID: 11400000, guid: 326ae6d3b0fc32f338a448cd45593ccd, type: 2}

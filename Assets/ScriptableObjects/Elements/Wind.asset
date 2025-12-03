@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c172582b45b7549108f9a8070826cdb0, type: 3}
+  m_Name: Wind
+  m_EditorClassIdentifier: Assembly-CSharp::ElementSO
+  elementCode: 4
+  skills:
+  - {fileID: 11400000, guid: 7415d4c23475054f4a4e108796763129, type: 2}
+  - {fileID: 11400000, guid: 3cb81322a43f50b9a8d11baaa8615ee8, type: 2}
+  possibleCombinations:
+  - {fileID: 11400000, guid: 37a34202553bc21c88617888eba4ec72, type: 2}
+  - {fileID: 11400000, guid: 6dbc1481f3fcc0cbf94b81072223f355, type: 2}
+  - {fileID: 11400000, guid: de1db6c343f6690829455611c2e717a5, type: 2}

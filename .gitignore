@@ -1,0 +1,26 @@
+# ------------------------------------------------------------------------------
+# Unity generated files (ALWAYS IGNORE)
+# ------------------------------------------------------------------------------
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Logs/
+/MemoryCaptures/
+/[Dd]erivedData/
+/ExternalTools/
+
+# Crash Report Files
+/*.pdb
+/Assets/AssetStoreTools/
+
+# VS/IDE files (OS specific)
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs

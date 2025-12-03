@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2db5b45baa3a3a5029cc856a89be37f7, type: 3}
+  m_Name: Sand
+  m_EditorClassIdentifier: Assembly-CSharp::CombinationSO
+  elementCode: 24
+  skillCodes:
+  - fn
+  - em
+  - fm
+  - en
+  skills:
+  - {fileID: 11400000, guid: d63668976a227e618a44e58d985cff97, type: 2}
+  - {fileID: 11400000, guid: a1d8ddd2a38ddfc5186fca31924e9358, type: 2}
+  - {fileID: 11400000, guid: f35b1647c51e7cd5f87522b1742ec90a, type: 2}
+  - {fileID: 11400000, guid: 6c94cfa983d0f671ba8bf55fa158992e, type: 2}
